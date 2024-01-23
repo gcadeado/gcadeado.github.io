@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 14
+date: 2021-11-11
+img: hideandseek.png
+alt: image-alt
+project-date: 2021
+type: link
+link: https://gcencic.itch.io/hide-and-seek-5100k
+client:
+category: Game Development
+description: In the future, the only way to escape constant surveillance is to participate in a global competition called SEEK & HIDE 5100. Jam game for A Game By It's Cover 2020. See on <a href="https://gcencic.itch.io/hide-and-seek-5100k" target="_blank">Itch.io</a>.
+---
